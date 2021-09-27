@@ -1,1 +1,2 @@
-# OMSCS
+# Supervised Learning Assignment
+
